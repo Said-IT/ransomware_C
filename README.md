@@ -53,7 +53,7 @@ client.c: Code source pour le client.
 
 ## apreçu  :
 
-![Image d'illustration](url_de_l_image)
+![Image d'illustration](/image/server)
 
 
 Auteur
