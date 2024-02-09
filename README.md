@@ -17,7 +17,7 @@ Description concise de votre projet.
 
 1. **Compilation:**
    ```bash
-   https://github.com/Said-IT/ransomware_C
+   git clone https://github.com/Said-IT/ransomware_C
 Exécution du Serveur:
 
 bash
