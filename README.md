@@ -4,6 +4,8 @@
 
 Description concise de votre projet.
 
+Ce projet a pour but educatif et faire objet de sensibilisation. 
+
 ## Fonctionnalités
 
 - **Upload de Fichiers:** Le serveur permet aux clients d'envoyer des fichiers depuis leur répertoire local.
