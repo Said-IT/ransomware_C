@@ -53,7 +53,11 @@ client.c: Code source pour le client.
 
 ## apreçu  :
 
+Partie serveur 
 ![Serveur](image/server.png)
+
+Partie client 
+![Client](image/client.png)
 
 
 Auteur
